@@ -1,0 +1,44 @@
+[
+    {
+        "id": "Rugaciune",
+        "subiect": "Rugaciune",
+        "template": "Salutare! \n\n Lider responsabil: David Ionita / Ronela Vlad. \n\n Mulțumesc, David!",
+        "variables": []
+    },
+    {
+        "id": "Inchinare",
+        "subiect": "Inchinare",
+        "template": "Salutare! \n \n RESPONSABILITATI: \n -Alcatuieste echipa ( 3 saptamani inainte). \n -Vorbeste cu voluntari de la media. \n -Stabileste repetitiile si le conduce (2 saptamani inainte). Vom merge dupa o tema stabilita. \n -Se ocupa sa gaseasca om care sa conduca inchinarea. \n -Comunica moderatorului programul (cu 2 saptamani inainte). \n -Se ocupa de inchinare la fiecare eveniment Shift. \n -Deleaga responsabilitati. \n -Vegheaza asupra departamentului si oamenilor care slujesc. \n\n Mulțumesc, David!",
+        "variables": []
+    },
+    {
+        "id": "Promovare",
+        "subiect": "Promovare",
+        "template": "Salutare! \n\n RESPONSABILITATI: \n -Face evenimentul pe facebook si Instagram, poza + descriere. \n -Promovarea se face cu 2 saptamani inainte de Seara Tinerilor. \n -Vorbeste cu Sebi Cristea sa faca poza cu 2 saptamani inainte sa faca evenimentul pe facebook. \n\n Mulțumesc, David!",
+        "variables": []
+    },
+    {
+        "id": "Mesaj",
+        "subiect": "Mesaj",
+        "template": "Salutare! \n\n -Cornel Frincu o sa stabileasca cu cei implicate temele pe care le vom aborda pana la sfarsitul anului. \n -Sa integram si cate o marturie personala. \n\n Mulțumesc, David!",
+        "variables": []
+    },
+    {
+        "id": "Moderator",
+        "subiect": "Moderator",
+        "template": "Salutare! \n\n RESPONSABILITATI: \n -Prezinta pe grup o propunere de program cu cel putin 1 saptamana inainte. \n -Face anunturile. \n -Face jocuri. \n -Modereaza intalnirea si conduce programul. \n\n Mulțumesc, David!",
+        "variables": []
+    },
+    {
+        "id": "Social Media",
+        "subiect": "Social Media",
+        "template": "Salutare! \n\n RESPONSABILITATI: \n -Se ocupa sa gaseasca si instruiasca oameni care sa faca poze. \n -Se ocupa de lumini. \n -Posteaza pe Instagram. \n\n Mulțumesc, David!",
+        "variables": []
+    },
+    {
+        "id": "Follow-up",
+        "subiect": "Follow-up",
+        "template": "Salutare! \n\n RESPONSABILITATI: \n -Sa faca un formular de primire. \n -Strange formularele. \n -Centralizeaza datele in excel. \n -Contacteaza persoanele ( un mesaj de multumire ca ne-a vizitat + invita la urmatoarele evenimente)  \n\n Mulțumesc, David!",
+        "variables": []
+    }
+]
